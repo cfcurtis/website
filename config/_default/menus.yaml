@@ -17,5 +17,5 @@ main:
     url: 'pubs'
     weight: 50
   - name: CV
-    url: uploads/cv.pdf
+    url: uploads/curtis-cv.pdf
     weight: 70

@@ -1,17 +1,19 @@
 ---
 title: Projects
+# date: 2023-07-12
 type: landing
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-# view: 2
+#   4 = Citations
+view: 2
 
 # Optional header image (relative to `static/media/` folder).
-# header:
-#   caption: ''
-#   image: ''
+header:
+  caption: ''
+  image: ''
 
 sections:
   - block: portfolio
@@ -21,6 +23,8 @@ sections:
       filters:
         folders:
           - project
+      sort_by: Weight
+      sort_ascending: true
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       tags: []
@@ -32,14 +36,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: PDF
+          tag: PDF
+        - name: Sewing 
+          tag: Sewing
+        - name: Open Source
+          tag: FOSS
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
 ---

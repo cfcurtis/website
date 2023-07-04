@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Electrical and Computer Envineering
+    - course: PhD in Electrical and Computer Engineering
       institution: University of Calgary
       year: 2015
     - course: MSc in Biomedical Engineering
@@ -67,7 +67,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv.pdf
+    link: uploads/curtis-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -76,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-Charlotte Curtis is an assistant professor in computing at Mount Royal University in Calgary, AB, Canada. After completing her PhD in signal processing, she worked as a data scientist in the oil and gas industry before returning to academia. She is passionate about sewing and open source software, and her research centres around developing accessible tools to work with digital sewing patterns.
+Charlotte Curtis is an assistant professor in computing at Mount Royal University in Calgary, AB, Canada. After completing her PhD in signal processing for medical imaging, she worked as a data scientist in the oil and gas industry before returning to academia. She is passionate about sewing and open source software, and her research focus is on developing accessible tools to work with digital sewing patterns.
 {style="text-align: justify;"}
