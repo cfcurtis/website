@@ -1,6 +1,6 @@
 ---
 title: "Foundations of Python Programming: Functions First"
-summary: An adaptation of the open source "Foundations of Python Programming" specifically tailored for COMP 1701 at Mount Royal University. This project was funded by the Mount Royal Library's Open Education Adaptation Grant, with much of the work done by Matthew Hrehirchuk. Ongoing maintenance and edits are done by Eric Chalmers, Charlotte Curtis, and Patrick Perri.
+summary: An adaptation of the open source "Foundations of Python Programming" specifically tailored for COMP 1701. This project was funded by the Mount Royal Library's Open Education Adaptation Grant, with much of the work done by Matthew Hrehirchuk. Ongoing maintenance and edits are done by Eric Chalmers, Charlotte Curtis, and Patrick Perri.
 tags:
   - FOSS
   - Education

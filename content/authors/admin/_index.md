@@ -76,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-Charlotte Curtis is an assistant professor in computing at Mount Royal University in Calgary, AB, Canada. After completing her PhD in signal processing for medical imaging, she worked as a data scientist in the oil and gas industry before returning to academia. She is passionate about sewing and open source software, and her research focus is on developing accessible tools to work with digital sewing patterns.
+Charlotte Curtis is an assistant professor in computing at Mount Royal University in Calgary, AB, Canada. After completing her PhD in signal processing for medical imaging, she worked as a data scientist in the oil and gas industry before returning to academia. She is a sewing enthusiast and a fan of open source software, and her research focus is on developing accessible tools to work with digital sewing patterns.
 {style="text-align: justify;"}
