@@ -15,6 +15,7 @@ date: '2022-11-18'
 lastmod: 2023-07-05T09:04:31-06:00
 featured: false
 draft: false
+url_pdf: "uploads/2022-Curtis-Modifying_PDF_sewing_patterns_for_use_with_projectors.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
