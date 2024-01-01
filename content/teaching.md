@@ -28,7 +28,7 @@ sections:
         - title: COMP 1501/1701
           company: Introduction to Problem Solving and Programming
           date_start: '2021-09-01'
-          date_end: ''
+          date_end: '2023-12-31'
           description: This course provides an introduction to problem solving in the context of computer programming. The course emphasizes fundamental algorithmic solutions and implementation of those solutions using a practical programming language. Topics include data representation, program control, file handling and elementary data structures.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
