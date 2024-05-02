@@ -15,6 +15,7 @@ date: '2022-11-18'
 lastmod: 2023-07-05T09:04:31-06:00
 featured: false
 draft: false
+url_pdf: "uploads/2022-Curtis-Anonymizing_and_obfuscating_PDF_content_while_preserving_document_structure.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
