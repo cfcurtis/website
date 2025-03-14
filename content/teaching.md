@@ -15,15 +15,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: "DATA 3464"
+          company: Foundations of Data Processing
+          date_start: '2026-01-01'
+          date_end: '2026-04-30'
+          description: "This course introduces techniques for ethically and responsibly wrangling and manipulating datasets to make them appropriate for addressing the question at hand. Topics may include cleaning and transforming data, integrity and quality measures, common file formats, feature selection and engineering, and generating features from unstructured sources such as text and images."
         - title: "COMP 4630"
           company: Machine Learning
           date_start: '2024-01-01'
-          date_end: '2024-04-30'
+          date_end: '2026-04-30'
           description: "This course provides a broad introduction to machine learning. Topics include supervised learning, unsupervised learning, neural networks and reinforcement learning. This course will also discuss recent applications of machine learning such as robotics, data mining, autonomous navigation, speech recognition, and text and web processing."
         - title: COMP 1633
           company: Intro to Computer Science II
           date_start: '2023-09-01'
-          date_end: '2024-04-30'
+          date_end: '2025-12-30'
           description: Introduction to object-oriented analysis and design, programming using an object-oriented language, and implementation of linked data structures. Issues of modularity, software design, and programming style will be emphasized.
         - title: COMP 1501/1701
           company: Introduction to Problem Solving and Programming
