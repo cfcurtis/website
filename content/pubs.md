@@ -4,29 +4,12 @@ type: landing
 
 sections:
   - block: collection
-    id: mru
     content:
-      title: At Mount Royal
+      count: 0
+      title: Publications and Conference Presentations
       filters:
         folders:
           - publication
-        after: 2021-07-01
     design:
       view: citation
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["20px", "0", "0", "0"]
-  - block: collection
-    id: gradschool
-    content:
-      title: During Graduate School
-      filters:
-        folders:
-          - publication
-        before: 2021-07-01
-    design:
-      view: citation
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["20px", "0", "20px", "0"]
 ---

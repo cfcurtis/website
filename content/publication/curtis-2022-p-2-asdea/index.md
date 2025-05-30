@@ -1,39 +1,13 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Anonymizing and Obfuscating PDF Content While Preserving Document Structure
-subtitle: ''
-summary: ''
 authors:
 - Charlotte Curtis
-tags:
-- document transformation
-- PDF
-- privacy
-categories: []
 date: '2022-11-18'
-lastmod: 2023-07-05T09:04:31-06:00
-featured: false
-draft: false
-url_pdf: "uploads/2022-Curtis-Anonymizing_and_obfuscating_PDF_content_while_preserving_document_structure.pdf"
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-07-05T15:04:31.678657Z'
+publishDate: '2025-05-30T20:24:15.539586Z'
 publication_types:
-- '1'
+- paper-conference
+publication: '*Proceedings of the 22nd ACM Symposium on Document Engineering*'
+doi: 10.1145/3558100.3563849
 abstract: The portable document format (PDF) is both versatile and complex, with a
   specification exceeding well over a thousand pages. For independent developers writing
   software that reads, displays, or transforms PDFs, it is difficult to comprehensively
@@ -46,8 +20,10 @@ abstract: The portable document format (PDF) is both versatile and complex, with
   vector graphics while retaining as much of the document structure and general visual
   appearance as possible. The intention is for pdf-mangler to be deployed as part
   of an automated bug reporting tool for PDF software.
-publication: '*Proceedings of the 22nd ACM Symposium on Document Engineering*'
-doi: 10.1145/3558100.3563849
+tags:
+- document transformation
+- PDF
+- privacy
 links:
 - name: URL
   url: https://doi.org/10.1145/3558100.3563849
