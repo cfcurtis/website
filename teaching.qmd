@@ -1,0 +1,43 @@
+---
+title: Teaching
+description: Courses taught or upcoming at MRU
+filters: 
+  - timeline
+callout-appearance: minimal
+---
+
+::: {.timeline .vertical-alt}
+::: {.event data-label="Fall 2026"}
+::: {.callout-note collapse="true"}
+## COMP 3700A — Contributing to Open Source
+This special topic offering provides students with a foundation on understanding and engaging with open source communities. Topics include licensing, communication, documentation, understanding legacy code bases, and collaborative software development. Students will make contributions to existing community projects and build their public portfolios.
+:::
+:::
+::: {.event data-label="Winter 2026-Winter 2027"}
+::: {.callout-note collapse="true"}
+## DATA 3464 — Foundations of Data Processing
+This course introduces techniques for ethically and responsibly wrangling and manipulating datasets to make them appropriate for addressing the question at hand. Topics may include cleaning and transforming data, integrity and quality measures, common file formats, feature selection and engineering, and generating features from unstructured sources such as text and images.
+:::
+:::
+::: {.event data-label="Winter 2024-Winter 2026"}
+::: {.callout-note collapse="true"}
+## COMP 4630 — Machine Learning
+
+This course provides a broad introduction to machine learning. Topics include supervised learning, unsupervised learning, neural networks and reinforcement learning. This course will also discuss recent applications of machine learning such as robotics, data mining, autonomous navigation, speech recognition, and text and web processing.
+:::
+:::
+::: {.event data-label="Fall 2023-Fall 2025"}
+::: {.callout-note collapse="true"}
+## COMP 1633 — Introduction to Computer Science II
+
+Introduction to object-oriented analysis and design, programming using an object-oriented language, and implementation of linked data structures. Issues of modularity, software design, and programming style will be emphasized.
+:::
+:::
+::: {.event data-label="Fall 2021-Fall 2023"}
+::: {.callout-note collapse="true"}
+## COMP 1501/1701 —  Introduction to Problem Solving and Programming
+
+This course provides an introduction to problem solving in the context of computer programming. The course emphasizes fundamental algorithmic solutions and implementation of those solutions using a practical programming language. Topics include data representation, program control, file handling and elementary data structures.
+:::
+:::
+:::

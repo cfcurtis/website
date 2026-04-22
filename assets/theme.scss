@@ -1,0 +1,29 @@
+/*-- scss:rules --*/
+$callout-color-note: $brand-kerby-blue;
+
+/* Custom divs adapted from https://www.andreashandel.com/posts/2025-03-05-custom-quarto-divs/ */
+.project {
+  margin: 1em 0;
+  border: 2px solid $brand-kerby-blue;
+  border-left: 10px solid $brand-lincoln-blue; 
+  border-radius: 10px;
+}
+
+/* Style the first child element (assumed to be the header) */
+.project > *:first-child {
+  margin: 0;
+  padding-left: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 1em;
+  font-weight: bold;
+  display: flex;
+  align-items: center; /* Vertically center */
+  position: relative;
+}
+
+/* Style the rest of the content */
+.project > *:not(:first-child) {
+  padding-top: 0.5em;
+  padding-left: 1em;
+}

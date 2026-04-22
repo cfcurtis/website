@@ -1,0 +1,45 @@
+---
+title: "Charlotte Curtis"
+description: Assistant professor at Mount Royal University
+image: img/charlotte.jpg
+about:
+  template: trestles
+  image-width: 150px
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ccurtis@mtroyal.ca
+    - icon: github
+      text: Github
+      href: https://github.com/cfcurtis
+    - icon: gitlab
+      text: GitLab
+      href: https://gitlab.com/cfcurtis
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-0079-7040
+filters: 
+  - timeline
+---
+
+## About
+I am an assistant professor in computer and data science at [Mount Royal University](https://www.mtroyal.ca/). I am interested in far too many things, but primarily open source software, vector graphics, document manipulation, and fibre arts. I like to build accessible and practical tools, particularly those that make it easier to work with digital sewing patterns.
+
+## Background
+::: {.timeline .vertical .tl-compact}
+::: {.event data-label="2021"}
+Joined Mount Royal as an Assistant Professor
+:::
+::: {.event data-label="2015"}
+PhD in Electrical Engineering at the University of Calgary
+:::
+::: {.event data-label="2015"}
+Began working at Baker Hughes as a Data Scientist
+:::
+::: {.event data-label="2011"}
+MSc in Biomedical Engineering at the University of Calgary
+:::
+::: {.event data-label="2008"}
+BEng in Biological Engineering at the University of Guelph
+:::
+:::

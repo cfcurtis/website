@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Charlotte Curtis"
+  site-url: https://www.charlottecurtis.ca/
+  favicon: img/icon.svg
+  navbar:
+    left:
+      - href: projects.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: docs/curtis-cv.pdf
+        text: CV  
+  page-footer:
+    center: "© Copyright 2026 Charlotte Curtis. Licensed [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)."
+
+page-layout: full
+format:
+  html:
+    theme: [simplex, brand, assets/theme.scss]
+    css: assets/styles.css
+    toc: false
+
+
+
