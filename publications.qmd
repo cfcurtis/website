@@ -1,0 +1,12 @@
+---
+title: Publications
+description: Of the formal academic kind
+bibliography: _bib/my-pubs.bib
+citeproc: false
+filters:
+  - michaelaye/chronobib
+chronobib:
+  heading-level: 3
+nocite: |
+  @*
+---
