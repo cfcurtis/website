@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: b5e071da-d3bb-4a0b-8041-288a6209954a
+      url: 'https://www.charlottecurtis.ca/'
