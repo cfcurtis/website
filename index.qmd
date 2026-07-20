@@ -1,6 +1,6 @@
 ---
 title: "Charlotte Curtis"
-description: Assistant professor at Mount Royal University
+description: Associate professor at Mount Royal University
 image: img/charlotte.jpg
 about:
   template: trestles
@@ -23,10 +23,13 @@ filters:
 ---
 
 ## About
-I am an assistant professor in computer and data science at [Mount Royal University](https://www.mtroyal.ca/). I am interested in far too many things, but primarily open source software, vector graphics, document manipulation, and fibre arts. I like to build accessible and practical tools, particularly those that make it easier to work with digital sewing patterns.
+I am an associate professor in computer and data science at [Mount Royal University](https://www.mtroyal.ca/). I am interested in far too many things, but primarily open source software, vector graphics, document manipulation, and fibre arts. I like to build accessible and practical tools, particularly those that make it easier to work with digital sewing patterns.
 
 ## Background
 ::: {.timeline .vertical .tl-compact}
+::: {.event data-label="2026"}
+Granted Tenure
+:::
 ::: {.event data-label="2021"}
 Joined Mount Royal as an Assistant Professor
 :::
